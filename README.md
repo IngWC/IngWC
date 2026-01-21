@@ -9,12 +9,26 @@
 </p>
 
 ---
+## Sobre mí
 
-## 🚀 Sobre mí
+Soy **Ingeniero de Software** enfocado en desarrollo backend y bases de datos, con experiencia en el diseño, liderazgo, optimización y automatización de procesos sobre entornos empresariales.
 
-Soy **Ingeniero de Software** enfocado en **desarrollo backend** y **bases de datos**, con experiencia en diseño, optimización y automatización de procesos sobre entornos empresariales.
+> [!NOTE]
+> Experiencia en **SQL Server, MySQL y PostgreSQL**, desarrollando **lógica de negocio** e **integraciones con ERP**, orientadas a soluciones basadas en datos para entornos empresariales.
 
-Trabajo principalmente con **SQL Server**, **MySQL** y **PostgreSQL**, desarrollando lógica de negocio, integraciones con ERP y soluciones orientadas a datos.
+> [!TIP]
+> Buenas prácticas de **optimización de consultas**, **indexación** y **automatización de procesos** para mejorar el rendimiento y la eficiencia de los sistemas.
+
+> [!IMPORTANT]
+> La **administración de servidores**, la **gestión de accesos** y el control de permisos son clave para garantizar la **disponibilidad, integridad y accesibilidad de la información**.
+
+> [!WARNING]
+> Recuerda una mala configuración de **seguridad**, **roles de base de datos** o **accesos a servidores** puede comprometer información crítica y afectar la operación del negocio.
+
+> [!CAUTION]
+> La capacitación continua en nuevas tecnologías ayuda a mitigar riesgos, fortalecer las buenas prácticas y promover una mejora constante en todo el equipo administrativo, facilitando la adopción segura y eficiente de nuevas herramientas y sistemas.
+
+
 
 - 💻 Desarrollo backend
 - 🗄️ Arquitectura y optimización de bases de datos
@@ -57,12 +71,12 @@ Trabajo principalmente con **SQL Server**, **MySQL** y **PostgreSQL**, desarroll
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=tokyonight" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&theme=tokyonight" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=IngWC&show_icons=true&theme=tokyonight" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IngWC&layout=compact&theme=tokyonight" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO_GITHUB&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IngWC&theme=tokyonight" />
 </p>
 
 ---
