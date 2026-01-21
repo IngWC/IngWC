@@ -31,6 +31,18 @@ Soy **Ingeniero de Software** enfocado en desarrollo backend y bases de datos, c
 > [!CAUTION]
 > La capacitación continua en nuevas tecnologías ayuda a mitigar riesgos, fortalecer las buenas prácticas y promover una mejora constante en todo el equipo administrativo, facilitando la adopción segura y eficiente de nuevas herramientas y sistemas.
 
+---
+
+ GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=IngWC&show_icons=true&theme=tokyonight" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IngWC&layout=compact&theme=tokyonight" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IngWC&theme=tokyonight" />
+</p>
 
 
 
@@ -70,20 +82,6 @@ Soy **Ingeniero de Software** enfocado en desarrollo backend y bases de datos, c
 - 🧾 Integraciones con ERP y SAP Business One
 - 🔐 Control de accesos y seguridad a nivel de base de datos
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IngWC&show_icons=true&theme=tokyonight" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IngWC&layout=compact&theme=tokyonight" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IngWC&theme=tokyonight" />
-</p>
-
----
 
 ## 🧩 Áreas de interés
 
