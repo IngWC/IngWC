@@ -1,4 +1,3 @@
-# 👋 ¡Hola! Soy **Wilingthon Castañeda**
 
 <p align="center">
   <img src="https://github.com/IngWC/IngWC/blob/main/Hi.png" alt="Hi Wilingthon" />
