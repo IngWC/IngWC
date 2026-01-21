@@ -1,12 +1,12 @@
 # 👋 ¡Hola! Soy **Wilingthon Castañeda**
 
 <p align="center">
-  <img src="hi.png" alt="Hi Wilingthon" />
+  <img src="https://github.com/IngWC/IngWC/blob/main/Hi.png" alt="Hi Wilingthon" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TU_USUARIO_GITHUB&label=Visitas&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/followers/TU_USUARIO_GITHUB?label=Seguidores&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=IngWC&label=Visitas&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/IngWC?label=Seguidores&style=flat" />
 </p>
 
 ---
