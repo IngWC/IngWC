@@ -1,7 +1,7 @@
 # 👋 ¡Hola! Soy **Wilingthon Castañeda**
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=900&lines=Backend+Developer+%7C+Database+Focused;SQL+Server+%7C+MySQL+%7C+PostgreSQL;.NET+%7C+Java+%7C+Automatización+de+Datos" alt="Typing SVG" />
+  <img src="/hi.png" alt="Hi Wilingthon" />
 </p>
 
 <p align="center">
