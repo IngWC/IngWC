@@ -12,7 +12,10 @@
 ## Sobre mí
 
 Soy **Ingeniero de Software** enfocado en desarrollo backend y bases de datos, con experiencia en el diseño, liderazgo, optimización y automatización de procesos sobre entornos empresariales.
-
+<p align="center">
+  <img src="https://github.com/IngWC/IngWC/blob/main/code.gif"  alt="ilustracion programing" min-width="100px" max-width="100px" width="100px" align="right" />
+</p>
+  
 > [!NOTE]
 > Experiencia en **SQL Server, MySQL y PostgreSQL**, desarrollando **lógica de negocio** e **integraciones con ERP**, orientadas a soluciones basadas en datos para entornos empresariales.
 
@@ -27,6 +30,7 @@ Soy **Ingeniero de Software** enfocado en desarrollo backend y bases de datos, c
 
 > [!CAUTION]
 > La capacitación continua en nuevas tecnologías ayuda a mitigar riesgos, fortalecer las buenas prácticas y promover una mejora constante en todo el equipo administrativo, facilitando la adopción segura y eficiente de nuevas herramientas y sistemas.
+
 
 
 
@@ -108,9 +112,7 @@ Soy **Ingeniero de Software** enfocado en desarrollo backend y bases de datos, c
 
 ## ✨ Coding vibes
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" />
-</p>
+
 
 ---
 
