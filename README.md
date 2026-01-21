@@ -1,7 +1,7 @@
 # 👋 ¡Hola! Soy **Wilingthon Castañeda**
 
 <p align="center">
-  <img src="/hi.png" alt="Hi Wilingthon" />
+  <img src="hi.png" alt="Hi Wilingthon" />
 </p>
 
 <p align="center">
