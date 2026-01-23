@@ -60,12 +60,10 @@ Servidores
 
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" />
+  <img src="https://skillicons.dev/icons?i=git,github,gmail,mysql,java,postgres,windows" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" />
+  
 </p>
 
 
@@ -104,9 +102,7 @@ Servidores
 </p>
 
 ### ⚙️ Herramientas y entorno
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,windows,docker,azure" />
-</p>
+
 
 ---
 
