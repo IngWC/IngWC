@@ -31,6 +31,14 @@ Soy **Ingeniero de Software** enfocado en desarrollo backend y bases de datos, c
 > [!CAUTION]
 > La capacitación continua en nuevas tecnologías ayuda a mitigar riesgos, fortalecer las buenas prácticas y promover una mejora constante en todo el equipo administrativo, facilitando la adopción segura y eficiente de nuevas herramientas y sistemas.
 
+## *Experiencia en desarrollo y Bases de datos*
+
+- 🗄️ Modelado de datos y normalización
+- ⚙️ Procedimientos almacenados, funciones y vistas
+- 🔄 Optimización de consultas SQL
+- 📊 Automatización de reportes y extracción de datos
+- 🔐 Control de accesos y seguridad a nivel de base de datos
+- 🧾 Integraciones con ERP (SAP Business One, Ofima, Legisoft, Sofland)
 ---
 
 # 💻 Tech Stack:
@@ -81,49 +89,6 @@ Servidores
 
 
 
-- 💻 Desarrollo backend
-- 🗄️ Arquitectura y optimización de bases de datos
-- ⚙️ Automatización de procesos y reportes
-- 🧾 Integraciones con ERP y SAP Business One
-- 🌎 Colombia
-
----
-
-## 🧠 Tecnologías y herramientas
-
-### 🗄️ Bases de datos
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=sqlserver,mysql,postgres" />
-</p>
-
-### 💻 Backend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,java,nodejs" />
-</p>
-
-### ⚙️ Herramientas y entorno
-
-
----
-
-## 🏗️ Experiencia en desarrollo y datos
-
-- 🗄️ Modelado de datos y normalización
-- ⚙️ Procedimientos almacenados, funciones y vistas
-- 🔄 Optimización de consultas SQL
-- 📊 Automatización de reportes y extracción de datos
-- 🧾 Integraciones con ERP y SAP Business One
-- 🔐 Control de accesos y seguridad a nivel de base de datos
-
-
-## 🧩 Áreas de interés
-
-- 🗄️ Arquitectura y rendimiento de bases de datos
-- ⚙️ Automatización backend con SQL y .NET
-- 📊 Reportes avanzados y dashboards
-- 🧠 IA aplicada a datos empresariales
-
----
 
 ## 🌐 Conecta conmigo
 
