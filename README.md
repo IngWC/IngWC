@@ -33,12 +33,12 @@ Soy **Ingeniero de Software** enfocado en desarrollo backend y bases de datos, c
 
 ## *Experiencia en desarrollo y Bases de datos*
 
-- 🗄️ Modelado de datos y normalización
-- ⚙️ Procedimientos almacenados, funciones y vistas
-- 🔄 Optimización de consultas SQL
-- 📊 Automatización de reportes y extracción de datos
-- 🔐 Control de accesos y seguridad a nivel de base de datos
-- 🧾 Integraciones con ERP (SAP Business One, Ofima, Legisoft, Sofland)
+- Modelado de datos y normalización
+- Procedimientos almacenados, funciones y vistas
+- Optimización de consultas SQL
+- Automatización de reportes y extracción de datos
+- Control de accesos y seguridad a nivel de base de datos
+- Integraciones con ERP (SAP Business One, Ofima, Legisoft, Sofland)
 ---
 
 # 💻 Tech Stack:
