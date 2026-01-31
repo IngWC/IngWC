@@ -74,21 +74,10 @@ Servidores
   
 </p>
 
-
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IngWC&theme=tokyonight" />
-</p>
-
-
-
-
 ## Conecta conmigo
 
 <p align="center">
-  <a href="mailto:wardila10@gmail.com">
+  <a href="mailto:sistemas.wca@gmail.com">
     <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/wilinggthon-casta%C3%B1eda-0035b6128/">
